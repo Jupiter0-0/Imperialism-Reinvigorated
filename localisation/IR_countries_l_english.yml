@@ -226,6 +226,14 @@
  CMG_ADJ: "Comminguese"
  DUN: "Dunois"
  DUN_ADJ: "Dunoise"
+ VDM: "Vendome" 
+ VDM_ADJ: "Vendomese" 
+ SAC: "Sancerre" 
+ SAC_ADJ: "Sancerrese"
+ VUS: "Vertus"
+ VUS_ADJ: "Vertuse"
+ NMO: "Nemours"
+ NMO_ADJ: "Nemoursian"
 
 
  #Occitan
@@ -1661,8 +1669,8 @@
  NST_ADJ:0 "Nusantaran"
  PHM:0 "Phimai"
  PHM_ADJ:0 "Phimaian"
- FNG:0 "Fang"
- FNG_ADJ:0 "Fangese"
+ F7G:0 "Fang"
+ F7G_ADJ:0 "Fangese"
  SMB:0 "Sumbawa"
  SMB_ADJ:0 "Sumbawan"
  KME:0 "Khmer"
